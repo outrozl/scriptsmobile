@@ -109,8 +109,8 @@ PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
 Scripts:AddButton({
 	Name = "HoHo V3",
 	Callback = function()
-            _G.HohoVersion = "v3"
-            loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+                 _G.HohoVersion = "v3"
+                 loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
   	end    
 })
 
