@@ -245,6 +245,8 @@ local Section = Tab:AddSection({
 Name = <string> - The name of the section.
 ]]
 
+Tab:AddLabel("SCRIPT ANTIGUO ESPERA A QUE ACTUALICEMOS EL SCRIPT POR AHORA PUEDES USAR ESTE ANTIGUO")
+
 Tab:AddLabel("Programador: nev_zc en discord")
 
 Tab:AddLabel("UI Library: orion lib creador: shlexware github")
